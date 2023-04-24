@@ -1,6 +1,6 @@
 {
 	"name": "figuren-theater/websites.fuer.figuren.theater-demos",
-	"description": "Specific code for https://websites.fuer.figuren.theater/demos.",
+	"description": "Specific code for https://websites.fuer.figuren.theater/demos, a part of the figuren.theater WordPress Multisite network.",
     "homepage": "https://websites.fuer.figuren.theater/demos",
     "type": "wordpress-dropin",
     "keywords": ["wordpress"],
