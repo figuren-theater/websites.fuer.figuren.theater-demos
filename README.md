@@ -21,7 +21,7 @@
   </p>
 </div>
 
-## About 
+## About
 
 
 This is the ready-to-start package for more complex WordPress websites, that will use a custom theme and could use custom site- or network specific plugins.
@@ -37,7 +37,7 @@ This repo represents a typical `wp-content` folder within a normal WordPress ins
 
 ### (must-use) Plugins included
 
-This package contains the following plugins. 
+This package contains the following plugins.
 Thoose should be completely managed by code and lack of their typical UI.
 
 * ...
@@ -58,7 +58,7 @@ Thoose should be completely managed by code and lack of their typical UI.
 
 ## License
 
-This project is licensed under the [GPL-3.0-or-later](LICENSE.md), see the [LICENSE](LICENSE) file for
+This project is licensed under the **GPL-3.0-or-later**, see the [LICENSE](/LICENSE) file for
 details
 
 ## Acknowledgments
